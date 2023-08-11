@@ -1,0 +1,71 @@
+// eslint-disable-next-line
+export default {
+
+    'project.app.Footer.text': 'PA Project - Area of Telematics Engineering - University of A Coruña',
+    'project.app.Header.home': 'Home',
+    'project.app.Header.logout': 'Logout',
+    'project.app.Home.welcome': 'MiniPortal main page content!',
+
+    'project.common.ErrorDialog.title': 'Error',
+
+    'project.global.buttons.cancel': 'Cancel',
+    'project.global.buttons.close': 'Close',
+    'project.global.buttons.next': 'Next',
+    'project.global.buttons.ok': 'OK',
+    'project.global.buttons.back': 'Back',
+    'project.global.buttons.save': 'Save',
+    'project.global.exceptions.NetworkError': 'Network error',
+    'project.global.fields.date': 'Date',
+    'project.global.fields.email': 'Email address',
+    'project.global.fields.firstName': 'First name',
+    'project.global.fields.lastName': 'Last name',
+    'project.global.fields.name': 'Name',
+    'project.global.fields.password': 'Password',
+    'project.global.fields.postalAddress': 'Postal address',
+    'project.global.fields.postalCode': 'Postal code',
+    'project.global.fields.userName': 'Username',
+    'project.global.validator.email': 'Provide a correct e-mail address',
+    'project.global.validator.passwordsDoNotMatch': 'Passwords do not match',
+    'project.global.validator.required': 'Required field',
+
+    'project.users.ChangePassword.fields.confirmNewPassword': 'Confirm new password',
+    'project.users.ChangePassword.fields.newPassword': 'New password',
+    'project.users.ChangePassword.fields.oldPassword': 'Old password',
+    'project.users.ChangePassword.title': 'Change password',
+    'project.users.Login.title': 'Login',
+    'project.users.SignUp.fields.confirmPassword': 'Confirm password',
+    'project.users.SignUp.title': 'Sign up',
+    'project.users.UpdateProfile.title': 'Update profile',
+
+    //nuestras traducciones
+    'project.global.fields.moviename': 'Movie Name',
+    'project.global.fields.session': 'Session',
+    'project.global.fields.learnmore': 'Learn more',
+    'project.global.fields.transactionNumber': 'Invalid card',
+
+    'project.global.fields.Buyformheader': 'Purchase tickets',
+    'project.global.fields.NumbTickets': 'Number of tickets',
+    'project.global.fields.CreditCard': 'Credit card',
+    'project.global.buttons.buy': 'Buy',
+    'project.session.fields.Duration': 'Duration',
+    'project.session.fields.Price': 'Price',
+    'project.session.fields.Date': 'Day and hour: ',
+    'project.session.fields.TheaterName': 'Movie theater name',
+    'project.session.fields.SeatsAva': 'Seats available',
+    'project.session.fields.Minutes': 'minutes',
+    'project.session.PurchaseCompleted.purchaseGenerated' : 'Purchase identifier generated',
+    'project.history.fields.purchaseDate': 'Purchase Date',
+    'project.history.fields.transactionNumber':'Transaction Number',
+    'project.history.fields.movieTitle':'Title',
+    'project.history.fields.numberOfTickets':'Number',
+    'project.history.fields.price':'Price',
+    'project.history.fields.sessionDate':'Session Date',
+    'project.history.fields.used':'Used?',
+    'project.users.PurchaseHistory.history':'History',
+    'project.users.PurchaseHistory.si':'yes',
+    'project.users.PurchaseHistory.no':'no',
+    'project.global.fields.numberOfTickets': 'Number os tickets',
+    'project.global.fields.purchaseId':'Invalid ticket id'
+
+
+}
